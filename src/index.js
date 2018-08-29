@@ -58,4 +58,8 @@ export class App extends React.Component {
     )
   }
 }
+<<<<<<< HEAD
 ReactDOM.render(<App />, document.getElementById('root'))
+=======
+ReactDOM.render(<App />, document.getElementById('root'))
+>>>>>>> 09d673056a0d7df4cce0d7eb44969e898683f5f7
